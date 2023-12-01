@@ -10,3 +10,9 @@ Indtil videre - så vidt jeg, Jonas, hsuker - så har vi følgende ting/projekte
 - Sense HAT til Raspberry Pi (vi har 1 indtil videre)
 - Display til Raspberry Pi 4 (fx til at lave sin egen "photo frame" - vi har 1 indtil videre)
 - Web dev med HTML, css og JS
+
+### Raspberry Pi generelt
+Vigtigst for at børnene kommer (ordentligt) i gang med Raspberry Pi vil nok være, at de/man følger vejledningerne fra de repo jeg (Jonas) har lavet om emnet: https://github.com/coding-pirates-hillerod/raspberry-pi-introductory-teaching-plan
+
+### Sense HAT
+Når først børnene har fået sat deres Pi op, så blot følg denne vejledning for leg med en Sense HAT: https://projects.raspberrypi.org/en/projects/getting-started-with-the-sense-hat/1
