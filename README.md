@@ -33,3 +33,5 @@ Når børnene har været igennem de foregående projekter - eller hvis de ligefr
 #### Camera Module
 Da jeg (Jonas) har haft lidt bøvl med at få et af kameramodulerne til en Pi op at køre, så lad os nok lige vente lidt med at lege med dette, indtil vi har noget reelt klar at lege med .. Jeg (Jonas) forsøger at finde på noget med dette asap.
 
+### Web dev
+Hvis vi skal lege med hele "Web dev" området, så kunne vi evt. tage udgangspunkt i det arbejde som Karsten allerede har lavet ifbm. Allerød afdelingen.
